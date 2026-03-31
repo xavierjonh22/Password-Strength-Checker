@@ -1,5 +1,6 @@
 # Password-Strength-Checker
-Program checks and confirms password strength
+Program checks and confirms password strength.
+
 Features:
 - Checks for 8 characters
 - Checks for Upper and Lowecase letters
